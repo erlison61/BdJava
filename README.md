@@ -6,9 +6,13 @@ uma biblioteca implementada em java que disponibiliza as classes e interfaces pa
 
 principais classe 
 	- DriverManager: cria conexão com o banco de dados;
+	
 	- Connection: mantém uma conexão aberta com o banco;
+	
 	- Statement: gerencia e executa instruções SQL;
+	
 	- PreparedStatement: gerencia e executa instruções SQL(parâmetros);	
+	
 	- ResultSet: recebe os dados obtidos em uma pesquisa ao banco.
 
 

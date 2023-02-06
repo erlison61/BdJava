@@ -4,7 +4,7 @@
 
 uma biblioteca implementada em java que disponibiliza as classes e interfaces para acesso ao banco de dados.
 
-principais classe 
+principais classe:
 	
 	- DriverManager: cria conexão com o banco de dados;
 	
@@ -19,10 +19,8 @@ principais classe
 
 //packages 
 
-Contas-onde vai ficar todos os tipos de conta
-e seus get's e set's
+	Contas  -onde vai ficar todos os tipos de conta e seus get's e set's
 
-DataBase- onde fica os dados de cada conta e sua 
-classe de conexão java.
+	DataBase- onde fica os dados de cada conta e sua classe de conexão java.
 
-interfaces- a parte de encapsulamento do projeto.
+	interfaces- a parte de encapsulamento do projeto.

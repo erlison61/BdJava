@@ -1,0 +1,11 @@
+com\mycompany\sistema\Sistema.class
+com\mycompany\Contas\ContaEspecial.class
+com\mycompany\database\ConexaoMySQL.class
+com\mycompany\sistema\Banco.class
+com\mycompany\Contas\ContaCorrente.class
+com\mycompany\interfaces\Conta.class
+com\mycompany\bdjava\BdJava.class
+com\mycompany\interfaces\Aplicacao.class
+com\mycompany\Contas\ContaPoupanca.class
+com\mycompany\Contas\TipoDeConta.class
+com\mycompany\sistema\Historico.class
